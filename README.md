@@ -1,4 +1,4 @@
-# Dark Matter Research
+# Dark Matter Propagation in the Sun using NR-EFT
 This repository contains Python notebooks developed during my M.Sc. research in Dark Matter Physics.
 
 ## Project
