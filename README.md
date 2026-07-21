@@ -1,5 +1,5 @@
 # Dark Matter Research
-This repository contains Python notebooks developed during my M.Sc. research in Astroparticle Physics.
+This repository contains Python notebooks developed during my M.Sc. research in Dark Matter Physics.
 
 ## Project
 Propagation of TeV–PeV Scale Dark Matter in the Sun within the Framework of Non-Relativistic Effective Field Theory (NR-EFT).
