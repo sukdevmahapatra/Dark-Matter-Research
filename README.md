@@ -1,5 +1,5 @@
 # Dark Matter Propagation in the Sun using NR-EFT
-This repository contains Python notebooks developed during my M.Sc. research in Dark Matter Physics.
+This repository contains Python notebooks developed during my M.Sc. research in Dark Matter Physics. The project investigates the propagation, scattering, capture, thermalization, annihilation, and neutrino flux of TeV–PeV scale dark matter in the Sun within the framework of Non-Relativistic Effective Field Theory (NR-EFT).
 
 ## Project
 Propagation of TeV–PeV Scale Dark Matter in the Sun within the Framework of Non-Relativistic Effective Field Theory (NR-EFT).
@@ -19,4 +19,4 @@ Propagation of TeV–PeV Scale Dark Matter in the Sun within the Framework of No
 - Astropy
 - Jupyter Notebook
 
-This repository contains Python notebooks developed during my M.Sc. research in Dark Matter Physics. The project investigates the propagation, scattering, capture, thermalization, annihilation, and neutrino flux of TeV–PeV scale dark matter in the Sun within the framework of Non-Relativistic Effective Field Theory (NR-EFT).
+The notebooks were developed as part of my Master's dissertation and demonstrate scientific computing, numerical analysis, and computational physics.
