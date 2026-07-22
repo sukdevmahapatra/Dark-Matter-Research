@@ -1,1 +1,1 @@
-## This folder contains the input data files used in the project.
+# This folder contains the input data files used in the project.
